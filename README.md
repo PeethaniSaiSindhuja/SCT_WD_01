@@ -29,3 +29,4 @@ Appears on scroll and brings the user back to the top of the page with a single 
 2.Open your project folder in VS Code.
 3.Install the Live Server extension by Ritwick Dey.
 4.Right-click on Task1.html and choose "Open with Live Server".
+
